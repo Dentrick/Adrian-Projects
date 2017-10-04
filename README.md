@@ -4,7 +4,8 @@ note: Currently this repository is being populated with past and current project
 
 ### About:
 
-    Hi, I'm Adrian Chiavelli and I'm a 2nd Year Game Design & Development student at RIT, During my stay here i've made a few projects that you may be interested in. 
+    Hi, I'm Adrian Chiavelli and I'm a 2nd Year Game Design & Development student at RIT,
+    During my stay here i've made a few projects that you may be interested in. 
 
 ### Projects:
 
