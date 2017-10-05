@@ -1,7 +1,5 @@
 # Adrian Rodrigo Chiavelli Hernandez's Project Repository
 
-note: Currently this repository is being populated with past and current projects, come by 10/5/17 for a more complete picture.
-
 ### About:
 
 Hi, I'm Adrian Chiavelli and I'm a 2nd Year Game Design & Development student at RIT,
@@ -17,7 +15,7 @@ During my stay here i've made a few projects that you may be interested in.
     * Sole Developer
     * Pong-styled game
 
-* [Unnamed Current Project](https://github.com/Dentrick/Adrian-Projects/tree/master/BrokenLink)
+* Unnamed Current Project
     * Sole Developer
     * Shmup (Shoot em' Up) with unique controls
 
