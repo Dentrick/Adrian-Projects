@@ -8,10 +8,11 @@
 ##########################################################################
 
 INSTALLATION INSTRUCTIONS:
-1) As of MonoGame 3.6, you no longer need to install oalisnt.exe
-2) Run game using LitD.exe
-3) If you encounter errors, Install OpenAL using oalinst.exe
-4) Have fun!
+1) Download LitD.zip and unzip
+2) As of MonoGame 3.6, you no longer need to install oalisnt.exe
+3) Run game using LitD.exe
+4) If you encounter errors, Install OpenAL using oalinst.exe
+5) Have fun!
 
 DESCRIPTION:
 You are a young boy, you do not know how you came to be here, but there are things out there aiming to hurt you.
