@@ -41,5 +41,5 @@ Luckily, there are multiple item dispensers around.
 -You can mark doors to indicate you've been there before.
 
 CREDITS:
-Music: Originals from Kevin Macleod at incompetech.com
-SFX: YouTube Audio Library
+Music: Originals from Kevin Macleod at incompetech.com, edits/remix by Adrian Chiavelli Hernandez
+SFX: YouTube Audio Library, edits by Adrian Chiavelli Hernandez
