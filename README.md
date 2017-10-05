@@ -9,7 +9,7 @@ During my stay here i've made a few projects that you may be interested in.
 
 ### Projects:
 
-* [Left in The Dark](https://www.brokenlink.com)
+* [Left in the Dark](https://github.com/Dentrick/Adrian-Projects/tree/master/Left_in_the_Dark)
     * Designer/Architect role
     * Top-down survival-horror game
 
