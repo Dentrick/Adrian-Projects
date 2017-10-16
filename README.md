@@ -11,7 +11,7 @@ During my stay here i've made a few projects that you may be interested in.
     * Designer/Architect role
     * Top-down survival-horror game
 
-* [Ping Hero](https://github.com/Dentrick/Adrian-Projects/tree/master/PingHero)
+* [PingHero](https://github.com/Dentrick/Adrian-Projects/tree/master/PingHero)
     * Sole Developer
     * Pong-styled game
 
