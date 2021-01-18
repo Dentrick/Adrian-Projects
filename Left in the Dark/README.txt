@@ -28,7 +28,7 @@ HOW TO PLAY:
 
 GAMEPLAY:
 
-You are being hunted by the Shadows, a paranormal whorde of the remains of your fellow humans.
+You are being hunted by the Shadows, a paranormal horde of the remains of your fellow humans.
 -These beings will always chase you if they can smell you in the same room (or even out of rooms if you leave doors open!).
 -The usual Shadows will walk slowly towards you and can surround you in groups if too many detect you.
 -At about one tile away of distance, an enemy will lunge at you, guaranteeing death.
