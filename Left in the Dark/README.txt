@@ -41,5 +41,10 @@ Luckily, there are multiple item dispensers around.
 -You can mark doors to indicate you've been there before.
 
 CREDITS:
+Team Leader/Tool Builder - Bryce Tynes
+Team Designer/Architect - Adrian Rodrigo Chiavelli Hernandez
+Architect/Designer/Game View/Animation Maker - Cameron Chin
+Graphics and UI Designer - Collin Ma
+
 Music: Originals from Kevin Macleod at incompetech.com, edits/remix by Adrian Chiavelli Hernandez
 SFX: YouTube Audio Library, edits by Adrian Chiavelli Hernandez
